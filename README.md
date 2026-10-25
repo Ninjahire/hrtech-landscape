@@ -37,6 +37,7 @@ Platforms that use AI to automate the full recruiting workflow — sourcing, eng
 | [Phenom](https://phenom.com) | Talent experience platform | Enterprise |
 | [Beamery](https://beamery.com) | Talent lifecycle AI | Enterprise |
 | [Fetcher](https://fetcher.ai) | AI sourcing automation | SaaS |
+| [Flowmingo](https://flowmingo.ai) | Free AI Interviewer and screening for recruiters | Freemium |
 
 #### 1.2 Applicant Tracking Systems (ATS)
 Systems of record for candidate data, pipeline management, and hiring compliance.
